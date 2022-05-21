@@ -17,7 +17,6 @@ GitHub: [Kanstantin1](https://github.com/Kanstantin1)
 
 
 
-`let i = 222;
-let d = 111;
-alert(i+d);
-alert( "I'm JavaScript!" );`
+`let i = 222;  
+let d = 111;  
+alert(i+d);  `
