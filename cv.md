@@ -8,5 +8,5 @@ Belarus, Zhlobin
 Phone: +375 (25) 529-81-16  
 E-mail: kanstantsinfamenok@gmil.com  
 LinkedIn: [kanstantsin-famenok](https://www.linkedin.com/in/kanstantsin-famenok-24934923b)    
-Telegram: [KonstantinFomenok](@KonstantinFomenok)    
+Telegram: @KonstantinFomenok   
 GitHub: [Kanstantin1](https://github.com/Kanstantin1)  
