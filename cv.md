@@ -36,8 +36,8 @@ JavaScript/Front-end courses
 6. ## Experience
 * OJSC “Byelorussian Steel Works”  
   Energy Engineer (09/2016 to 05/2022)  
- ** Personnel management  
- ** Development, implementation and maintenance of cooling systems
+  + Personnel management  
+  + Development, implementation and maintenance of cooling systems
 * RS School ...
 
 7. ## Code example
