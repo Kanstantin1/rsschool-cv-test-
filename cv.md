@@ -14,12 +14,15 @@ GitHub: [Kanstantin1](https://github.com/Kanstantin1)
 
 3. ## Skills
 
-* HTML         * Git
-* CSS          * Figma 
-* Javascript   * Photoshop
+* HTML         
+* CSS          
+* Javascript   
+* Git
+* Figma 
+* Photoshop
 
 4. ## Projects
-* My first encounter with HTML and CSS kanstantin1.github.io/first-one/
+* [My first encounter with HTML and CSS](kanstantin1.github.io/first-one)
 * [My CV](https://kanstantin1.github.io/rsschool-cv/cv)
 
 5. ## Education
