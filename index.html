@@ -5,11 +5,141 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>Konstantin Fomenok</title>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+	<div class="wrapper">
+		<header class="header">
+			<section class="header__about">
+				<h1>Kanstantsin Famenok</h1>
+				<p>Junior Frontend Developer</p>
+				<img src="img/myPhoto.jpg" alt="MyPhoto">
 
+				<div class="header__contacts">
+					<ul class="header__list">
+						<li>Belarus, Zhlobin</li>
+						<li>Phone: +375 (25) 529-81-16</li>
+						<li>E-mail: <a href="mailto:kanstantsinfamenok@gmail.com"
+								class="header__link">kanstantsinfamenok@gmil.com</a></li>
+					</ul>
+				</div>
+				<div class="header__social">
+					<a href="https://t.me/KonstantinFomenok" target="_blank"><img src="img/telegram.svg " alt="Telegram"></a>
+					<a href="https://www.linkedin.com/in/kanstantsin-famenok-24934923b" target="_blank"><img
+							src="img/linkedIn.svg " alt="LinkedIn"></a>
+					<a href="https://discordapp.com/users/315146001788698636/" target="_blank"><img src="img/discord.svg "
+							alt="Discord"></a>
+					<a href="https://github.com/Kanstantin1" target="_blank"><img src="img/github.svg " alt="GitHub"></a>
+				</div>
+			</section>
+			<section class="header__container">
+				<h2>Languages</h2>
+				<hr>
+				<ul>
+					<li>English - pre-intermidiate (A2, B1 in process)</li>
+					<li>Russian - native</li>
+				</ul>
+			</section>
+			<section class="header__container">
+				<h2>Education</h2>
+				<hr>
+				<ul>
+					<li><span>Belarusian National Technical University</span> <br>
+						diploma magister of Enargy Engineering,
+						2011-2017</li>
+					<li><span>RS School</span> <br>
+						JavaScript/Front-end courses
+						2022-2023</li>
+				</ul>
+			</section>
+		</header>
+		<main class="main">
+			<nav class="main__nav">
+				<ul class="nav__list">
+					<li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
+					<li class="nav__item"><a href="#projects" class="nav__link">Projects</a></li>
+					<li class="nav__item"><a href="#exp" class="nav__link">Experience</a></li>
+					<li class="nav__item"><a href="#code" class="nav__link">Code example</a></li>
+				</ul>
+			</nav>
+			<section class="main__container">
+				<h2>About Me</h2>
+				<hr>
+				<p class="about">
+					Ready to work in a team, stress-resistant, ready to develop and learn new things.
+				</p>
+			</section>
+			<section class="main__container">
+				<h2 id="skills">Skills</h2>
+				<hr>
+				<div class="skills__list">
+					<ul class="main__items">
+						<li>HTML</li>
+						<li>CSS</li>
+						<li>Javascript</li>
+					</ul>
+					<ul class="main__items">
+						<li>Git</li>
+						<li>Figma</li>
+						<li>Photoshop</li>
+					</ul>
+				</div>
+			</section>
+			<section class="main__container">
+				<h2 id="projects">Projects</h2>
+				<hr>
+				<div class="skills__list">
+					<ul class="main__items">
+						<li>My first encounter with HTML and CSS
+							<a href="https://kanstantin1.github.io/First-one/">kanstantin1.github.io/first-one/</a>
+						</li>
+						<li>My CV <br> <a
+								href="https://Kanstantin1.github.io/rsschool-cv/">Kanstantin1.github.io/rsschool-cv</a>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<section class="main__container">
+				<h2 id="exp">Experience</h2>
+				<hr>
+				<ul class="main__items">
+					<li>OJSC “Byelorussian Steel Works” <br>
+						<span>Energy Engineer</span> (09/2016 to 05/2022)
+						<ul class="exp__list2">
+							<li>Personnel management</li>
+							<li>Development, implementation and maintenance of cooling systems</li>
+						</ul>
+					</li>
+					<li>RS School <br> <span>Course «JavaScript/Front-end»</span>(05/2022 to now)</li>
+				</ul>
+			</section>
+			<section class="main__container">
+				<h2 id="code">Code example</h2>
+				<hr>
+				<code class="main__code">
+					let time = 2;<br>
+					let speedOfFirst = 95;<br>
+					let speedOfSecond = 114;<br>
+					let distance = (speedOfFirst + speedOfSecond) * time;<br>
+						 console.log(distance);
+				</code>
+			</section>
+		</main>
+	</div>
+
+	<footer class="footer">
+		<ul class="footer__list">
+			<li class="footer__item"><a href="https://github.com/Kanstantin1" target="_blank"><img src="img/github.svg "
+						alt="GitHub"></a></li>
+			<li class="footer__item">2022</li>
+			<li><a href="https://rs.school/js/" target="_blank">Course «JavaScript/Front-end»</a></li>
+			<li class="footer__item"><a href="https://rs.school/js/" target="_blank"><img class="foorer__logo"
+						src="img/RSS.svg" alt="RS-Scool"></a></li>
+		</ul>
+	</footer>
 </body>
 
 </html>
